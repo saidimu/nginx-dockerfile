@@ -1,7 +1,7 @@
 #
 # Nginx Dockerfile
 #
-# https://github.com/dockerfile/nginx
+# https://github.com/saidimu/nginx-dockerfile
 #
 
 # Pull base image from the latest Ubuntu LTS
