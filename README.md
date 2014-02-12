@@ -1,7 +1,7 @@
 ## Nginx Dockerfile
 
 
-This repository contains **Dockerfile** of [Nginx](http://nginx.org/) meant to pull proxy configs from [`etc`](https://github.com/coreos/etcd)
+This repository contains **Dockerfile** of [Nginx](http://nginx.org/) meant to pull proxy configs from [`etcd`](https://github.com/coreos/etcd), a highly-available key value store for shared configuration and service discovery.
 
 
 ### Dependencies
